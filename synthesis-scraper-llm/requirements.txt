@@ -1,7 +1,0 @@
-pypdf
-pandas
-openai
-arxiv
-requests
-pdf2image
-Pillow

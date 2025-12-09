@@ -25,3 +25,5 @@ dist/
 # Data
 data/*.db
 data/*.sqlite
+data/downloads/*.pdf
+data/downloads/

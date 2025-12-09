@@ -1,0 +1,25 @@
+# Configuration for Synthesis Scraper
+
+# Arxiv Search Settings
+search:
+  max_results_default: 3
+  download_dir: "data/downloads"
+
+# LLM Settings
+llm:
+  ollama_url: "http://localhost:11434/api/generate"
+  model_vision: "llava"
+  model_text: "qwen3:8b"
+  timeout: 120
+  num_ctx: 2048
+  keep_alive: -1
+
+# Processing Settings
+processing:
+  max_workers: 4
+  retry_attempts: 3
+  retry_delay: 2
+
+# Database Settings
+database:
+  path: "data/synthesis.db"

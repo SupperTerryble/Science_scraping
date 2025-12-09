@@ -1,0 +1,5 @@
+Synthesis of ZIF-8
+The synthesis was performed using a solvothermal method.
+Zinc nitrate hexahydrate (2.0 g) and 2-methylimidazole (1.5 g) were dissolved in methanol (50 mL).
+The solution was heated at 120 °C for 24 hours.
+The product was washed with ethanol and dried.

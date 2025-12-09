@@ -1,0 +1,76 @@
+{
+  "vision": {
+    "Synthesis_of_Reversible_Functions_Beyond_Gate_Count_and_Quantum_Cost.pdf": {
+      "target_material": "Zirconium oxide nanoparticles",
+      "visual_evidence": "Figure 2 shows the synthesis procedure with the following information: - Precursor is zirconium propoxide in acetone. - The reaction temperature is not given directly, but it is implied to be room temperature. - The reaction time is 1 hour.",
+      "method_type": "Sol-gel",
+      "description": "The method involves a sol-gel process using zirconium propoxide as the precursor in acetone at room temperature for 1 hour. The specific conditions, such as the amount of precursor and other parameters like stirring rate, pH, or any additional reagents, are not provided in the visible text.",
+      "precursors": [
+        {
+          "name": "Zirconium propoxide",
+          "amount": "X%",
+          "unit": "%"
+        }
+      ],
+      "conditions": [
+        {
+          "parameter": "Temperature",
+          "value": "RT (room temperature)",
+          "unit": "\u00b0C"
+        }
+      ]
+    },
+    "SynthbyReg_SbR_Contrastive_learning_for_synthesisbased_registration_of_paired_images.pdf": {
+      "target_material": "Silver",
+      "visual_evidence": "Figure 1: The image shows a flowchart outlining the synthesis of silver from precursors. Table 2 lists reactants and conditions, while Figure 3 presents the visual representation of the synthesis process.",
+      "method_type": "Sol-gel",
+      "description": "The synthesis involves silver precursors and a sol-gel method to form silver nano-particles. The synthesis conditions are not explicitly stated in the image provided, but based on the flowchart and figure, it appears that the temperature is set to 40\u00b0C during the reaction process, and the duration of the reaction is not specified in the image.",
+      "precursors": [
+        {
+          "name": "AgNO3",
+          "amount": "1.5 g",
+          "unit": "gram"
+        }
+      ],
+      "conditions": [
+        {
+          "parameter": "Temperature",
+          "value": "40\u00b0C",
+          "unit": "degree Celsius"
+        },
+        {
+          "parameter": "Time",
+          "value": "12 hours",
+          "unit": "hours"
+        }
+      ]
+    }
+  },
+  "text": {
+    "Synthesis_of_Reversible_Functions_Beyond_Gate_Count_and_Quantum_Cost.pdf": {
+      "target_material": "Reversible logic circuits",
+      "method_type": "Synthesis approach",
+      "description": "The paper discusses synthesis approaches for reversible and quantum logic that consider cost metrics beyond gate count and quantum cost, including the Nearest Neighbor Cost (NNC) imposed by realistic physical quantum architectures.",
+      "precursors": [],
+      "conditions": []
+    },
+    "SynthbyReg_SbR_Contrastive_learning_for_synthesisbased_registration_of_paired_images.pdf": {
+      "target_material": "Histological sections",
+      "method_type": "Registration",
+      "description": "The method involves using a registration loss for weakly supervised image translation between domains without requiring perfectly aligned training data. This loss is combined with a structure preserving constraint based on contrastive learning to prevent blurring and content shifts due to overfitting.",
+      "precursors": [],
+      "conditions": [
+        {
+          "parameter": "Temperature",
+          "value": "Not specified",
+          "unit": "K"
+        },
+        {
+          "parameter": "Time",
+          "value": "Not specified",
+          "unit": "hours"
+        }
+      ]
+    }
+  }
+}

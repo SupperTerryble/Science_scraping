@@ -1,0 +1,331 @@
+[
+  {
+    "title": "test_paper.txt",
+    "synthesis": {
+      "target_material": "ZIF-8",
+      "method_type": "Solvothermal",
+      "description": "Mock synthesis description extracted from text.",
+      "precursors": [
+        {
+          "name": "Zinc nitrate hexahydrate",
+          "amount": "2.0",
+          "unit": "g"
+        },
+        {
+          "name": "2-methylimidazole",
+          "amount": "1.5",
+          "unit": "g"
+        }
+      ],
+      "conditions": [
+        {
+          "parameter": "Temperature",
+          "value": "120",
+          "unit": "C"
+        },
+        {
+          "parameter": "Time",
+          "value": "24",
+          "unit": "h"
+        }
+      ]
+    }
+  },
+  {
+    "title": "2312.14974v1.pdf",
+    "synthesis": {
+      "target_material": "ZIF-8",
+      "method_type": "Solvothermal",
+      "description": "Mock synthesis description extracted from text.",
+      "precursors": [
+        {
+          "name": "Zinc nitrate hexahydrate",
+          "amount": "2.0",
+          "unit": "g"
+        },
+        {
+          "name": "2-methylimidazole",
+          "amount": "1.5",
+          "unit": "g"
+        }
+      ],
+      "conditions": [
+        {
+          "parameter": "Temperature",
+          "value": "120",
+          "unit": "C"
+        },
+        {
+          "parameter": "Time",
+          "value": "24",
+          "unit": "h"
+        }
+      ]
+    }
+  },
+  {
+    "title": "1004.4609v1.pdf",
+    "synthesis": {
+      "target_material": "Reversible and quantum logic circuits",
+      "method_type": "Theoretical synthesis",
+      "description": "The synthesis approach focuses on developing cost metrics beyond gate count and quantum cost for reversible and quantum logic circuits, considering physical constraints and realistic quantum architectures.",
+      "precursors": [
+        {
+          "name": "Reversible logic gates",
+          "amount": "1",
+          "unit": "unit"
+        },
+        {
+          "name": "Quantum gates",
+          "amount": "1",
+          "unit": "unit"
+        }
+      ],
+      "conditions": [
+        {
+          "parameter": "Temperature",
+          "value": "Not specified",
+          "unit": "K"
+        },
+        {
+          "parameter": "Time",
+          "value": "Not specified",
+          "unit": "s"
+        }
+      ]
+    }
+  },
+  {
+    "title": "1002.0376v2.pdf",
+    "synthesis": {
+      "target_material": "Zirconium oxide nanoparticles",
+      "method_type": "Sol-gel",
+      "description": "The synthesis process involves the hydrothermal treatment of a mixture containing zirconium chloride, sodium hydroxide, and sodium lauryl sulfonate in an autoclave at 160\u00b0C for 48 hours. The solution was stirred during the reaction to ensure proper mixing.",
+      "precursors": [
+        {
+          "name": "Zirconium chloride",
+          "amount": "2.5 g",
+          "unit": "grams"
+        },
+        {
+          "name": "Sodium hydroxide",
+          "amount": "0.2 M",
+          "unit": "Molarity"
+        },
+        {
+          "name": "Sodium lauryl sulfonate",
+          "amount": "4 g",
+          "unit": "grams"
+        }
+      ],
+      "conditions": [
+        {
+          "parameter": "Temperature",
+          "value": "160",
+          "unit": "\u00b0C"
+        }
+      ]
+    }
+  },
+  {
+    "title": "2101.07385v2.pdf",
+    "synthesis": {
+      "target_material": "Not specified in the image provided",
+      "method_type": "Sol-gel",
+      "description": "The image shows a scientific paper discussing the synthesis of a MOF. It refers to a sol-gel method involving the reaction of zirconium precursors with an organic ligand in ethanol at 50\u00b0C for 24 hours. The description also mentions the use of a metal-ligand complex and its importance for the formation of MOFs.",
+      "precursors": [
+        {
+          "name": "Zirconium precursor",
+          "amount": "25 mmol",
+          "unit": "mmol"
+        },
+        {
+          "name": "Organic ligand",
+          "amount": "7.5 g",
+          "unit": "g"
+        }
+      ],
+      "conditions": [
+        {
+          "parameter": "Temperature",
+          "value": "50\u00b0C",
+          "unit": "\u00b0C"
+        },
+        {
+          "parameter": "Time",
+          "value": "24 hours",
+          "unit": "hours"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Firstprinciples_design_and_subsequent_synthesis_of_a_material_to_search_for_the_permanent_electric_dipole_moment_of_the_electron.pdf",
+    "synthesis": {
+      "target_material": "Silver sulfate nanomaterials",
+      "method_type": "Electrochemical",
+      "description": "The synthesis involves electrodeposition of silver followed by a heat treatment to form the nanomaterials. The process seems to be a step-by-step method, although specific details are not provided in this image.",
+      "precursors": [],
+      "conditions": [
+        {
+          "parameter": "Temperature",
+          "value": "180\u00b0C",
+          "unit": "Celsius"
+        },
+        {
+          "parameter": "Time",
+          "value": "3 hours",
+          "unit": "Hours"
+        }
+      ]
+    }
+  },
+  {
+    "title": "dummy_paper.txt",
+    "synthesis": {
+      "target_material": "ZIF-8",
+      "method_type": "Solvothermal",
+      "description": "Mock synthesis description extracted from text.",
+      "precursors": [
+        {
+          "name": "Zinc nitrate hexahydrate",
+          "amount": "2.0",
+          "unit": "g"
+        },
+        {
+          "name": "2-methylimidazole",
+          "amount": "1.5",
+          "unit": "g"
+        }
+      ],
+      "conditions": [
+        {
+          "parameter": "temperature",
+          "value": "393.15",
+          "unit": "K"
+        },
+        {
+          "parameter": "time",
+          "value": "1440.0",
+          "unit": "min"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Synthesis_of_Reversible_Functions_Beyond_Gate_Count_and_Quantum_Cost.pdf",
+    "synthesis": {
+      "target_material": "Reversible logic circuits",
+      "method_type": "Theoretical analysis",
+      "description": "The paper discusses the synthesis of reversible and quantum logic circuits, focusing on cost metrics beyond gate count and quantum cost, such as the Nearest Neighbor Cost (NNC) imposed by realistic physical quantum architectures.",
+      "precursors": [],
+      "conditions": []
+    }
+  },
+  {
+    "title": "Gold_nanoparticle_assemblies_Interplay_between_thermal_effects_and_optical_response.pdf",
+    "synthesis": {
+      "target_material": "Gold nanoparticles",
+      "method_type": "Theoretical and modeling",
+      "description": "The paper investigates the interplay between the optical and thermal responses of gold nanoparticle assemblies using theoretical and modeling approaches. It examines how light interacts with matrix-embedded gold nanoparticles to generate thermal excitations through various energy exchange mechanisms and how thermal processes affect the optical response of nanoparticle assemblies.",
+      "precursors": [],
+      "conditions": []
+    }
+  },
+  {
+    "title": "Textmined_dataset_of_gold_nanoparticle_synthesis_procedures_morphologies_and_size_entities.pdf",
+    "synthesis": {
+      "target_material": "Gold nanoparticles",
+      "method_type": "Text-mined dataset",
+      "description": "A dataset of codified gold nanoparticle synthesis protocols and outcomes extracted directly from the nanoparticle materials science literature using natural language processing and text-mining techniques.",
+      "precursors": [
+        {
+          "name": "Gold precursor",
+          "amount": "Not specified",
+          "unit": ""
+        },
+        {
+          "name": "Reagents",
+          "amount": "Not specified",
+          "unit": ""
+        }
+      ],
+      "conditions": [
+        {
+          "parameter": "Temperature",
+          "value": "Not specified",
+          "unit": ""
+        },
+        {
+          "parameter": "Time",
+          "value": "Not specified",
+          "unit": ""
+        }
+      ]
+    }
+  },
+  {
+    "title": "Electronic_emission_of_radiosensitizing_gold_nanoparticles_under_Xray_irradiation__experiment_and_simulations.pdf",
+    "synthesis": {
+      "target_material": "Gold Nanoparticles (GNPs)",
+      "method_type": "Sol-gel",
+      "description": "The GNPs were prepared using the Turkevich method, which produces GNPs coated with a citrate monolayer. The particles were washed by three centrifugation cycles.",
+      "precursors": [
+        {
+          "name": "Citrate",
+          "amount": "Not specified",
+          "unit": "mol"
+        }
+      ],
+      "conditions": [
+        {
+          "parameter": "Method",
+          "value": "Turkevich method",
+          "unit": "none"
+        },
+        {
+          "parameter": "Washing",
+          "value": "Three centrifugation cycles",
+          "unit": "none"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Depletion_Gilding_An_Ancient_Method_for_Surface_Enrichment_of_Gold_Alloys.pdf",
+    "synthesis": {
+      "target_material": "Gold-Copper Alloy",
+      "method_type": "Depletion Gilding",
+      "description": "A subtractive process where non-gold elements are removed from the surface of a gold alloy to increase the gold content, resulting in surface enrichment.",
+      "precursors": [
+        {
+          "name": "Gold",
+          "amount": "Not specified",
+          "unit": "Not specified"
+        },
+        {
+          "name": "Copper",
+          "amount": "Not specified",
+          "unit": "Not specified"
+        },
+        {
+          "name": "Silver",
+          "amount": "Not specified",
+          "unit": "Not specified"
+        }
+      ],
+      "conditions": [
+        {
+          "parameter": "Time",
+          "value": "Not specified",
+          "unit": "Not specified"
+        },
+        {
+          "parameter": "Temperature",
+          "value": "Not specified",
+          "unit": "Not specified"
+        }
+      ]
+    }
+  }
+]
